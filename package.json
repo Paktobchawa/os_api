@@ -1,0 +1,31 @@
+{
+  "name": "os-nodejs-api-027-075-147",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "ronin-mocks": "^0.1.11",
+    "ronin-server": "^0.1.3"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmaimankarae/testmine1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmmaimankarae/testmine1/issues"
+  },
+  "homepage": "https://github.com/mmmaimankarae/testmine1#readme"
+}
